@@ -1,0 +1,5 @@
+Sample code to use with self-driving robots that use the CamJam robotics controller. 
+
+Robots will have to use an updated version of gpiozero.  Robots can also have a second line follower added with inverted logic for speedier line following.
+
+
