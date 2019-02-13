@@ -1,12 +1,2 @@
-#Neopixels and microbit
-
-Here is the code examples and materials list for using the microbits with strips of neopixel.
-
-##Materials
-Each microbit will need to have:
-  -power source (either usb via computer, power bank or 2 pin 3V battery pack) 
-  -Edge connector breakout board
-  -8 pixel strip of neopixel, with presoldered wires.  
-  
-If you are wiring the any strips longer than this, you will need to connect the ground and +5v pins from the strip to an external 5V power supply.  
+materials and requirements for different microbit workshops.
 
