@@ -1,0 +1,10 @@
+Each microbit requires: 
+
+1 x mini usb rechargeable speaker (charged) 
+1 x power source (usb connection to PC, powerbrick, or 3V battery pack) 
+2 x crocodile clips (small)
+
+Coding interface
+  -Let's Code web interface on PC
+  -Microbit app on phone to program over bluetooth
+  -mu micropython interface on raspberry pi
